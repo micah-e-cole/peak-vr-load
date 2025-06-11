@@ -1,0 +1,4 @@
+pandas
+requests
+prophet
+psycopg2-binary    # optional, for PostgreSQL
